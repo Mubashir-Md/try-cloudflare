@@ -1,4 +1,3 @@
-// POST api/submit.js
 
 export async function onPostRequest(context) {
   try {
